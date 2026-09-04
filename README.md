@@ -1,4 +1,4 @@
-Here is a great description you can use for your README.md file on GitHub. This is the first thing the judges will read.
+
 
 Hackathon Track 1: News & Trend Intelligence Agent
 This is our submission for the News & Trend Intelligence Agent track. Our project fetches live news articles, performs real-time sentiment analysis, and displays the results on an interactive web dashboard.
